@@ -1,0 +1,2938 @@
+{
+    "centers": [
+        {
+            "center_id": 623556,
+            "name": "Gandhi Nagar Uphc 1",
+            "address": "Lions Public School Sec-10A",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "86acf112-138e-4bee-b8c2-01d3649d800e",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 604046,
+            "name": "Farrukh Nagar CHC",
+            "address": "Farrukh Nagar CHC",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Farukhnagar",
+            "pincode": 122506,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "5eb102f9-05f9-404c-abe7-0d86407443ca",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 706375,
+            "name": "Apollo Spectra Sheetla Hos.",
+            "address": "Sheetla Hospital Near Dronacharya Govt. College New Railway Road",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "16:00:00",
+            "to": "17:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "f39a75a6-a779-42a4-86f1-9f4b8d7dafd5",
+                    "date": "31-05-2021",
+                    "available_capacity": 5,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 5
+                },
+                {
+                    "session_id": "75632da3-2de5-485e-8d6a-982c0cd04d93",
+                    "date": "31-05-2021",
+                    "available_capacity": 4,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "03:00PM-05:00PM",
+                        "05:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 4
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "900"
+                }
+            ]
+        },
+        {
+            "center_id": 609927,
+            "name": "Fortis Memorial Resarch Inst",
+            "address": "Sector - 44 Opposite HUDA City Gurga",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122002,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "cea01654-1c91-44d6-817c-25cde9afc6ad",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "a82c63f4-6a0e-4d6e-83b3-a08c6afa6d9d",
+                    "date": "31-05-2021",
+                    "available_capacity": 2,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 2
+                },
+                {
+                    "session_id": "68f8caa5-ff12-49fd-830e-ea4e070037b8",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "ec0e1cf8-6cf2-4f44-9bfd-72443f1950f8",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "c52f428e-ea46-4800-b49d-a3dc713eb52f",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "34a0c908-3df9-4d46-8389-dc5ed15aeaa5",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "83aed811-40dc-4862-807b-9c47d6e06ef1",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "ecb19098-1af0-4e5c-9a3a-44ff066f7f3f",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "c3af9e71-7110-491f-b438-ab3e4574b6b1",
+                    "date": "02-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "6491012f-9ccc-4a54-b139-84be9cf079cb",
+                    "date": "02-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "020bcab9-d762-4d49-a570-0394784ed012",
+                    "date": "02-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "86eedfe1-7a8a-4214-9793-3bac221d5b0e",
+                    "date": "02-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "9cd8f790-4759-4eb3-b4dc-abea1a247415",
+                    "date": "03-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "16066ebd-6681-41cf-ac44-bbffac7ff26e",
+                    "date": "03-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "de0a77d9-eadd-40c3-893c-e61e1718e8fb",
+                    "date": "03-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "35e4d147-b149-46c2-adc4-7c08ec2be7dd",
+                    "date": "03-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "b92878fa-86ef-4b9c-b63f-36859fd7e51a",
+                    "date": "04-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "643939f1-cb9a-4143-b982-64fcd6544665",
+                    "date": "04-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "babd3564-4ff2-436b-adc2-09008331d9db",
+                    "date": "04-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "bd58fc60-69d7-483e-bb90-0e8c5658fa72",
+                    "date": "05-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "ba169d45-d2c1-4091-b762-70247d0cfe2a",
+                    "date": "05-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "ed7cda1e-f4f8-461f-8b9e-972307322109",
+                    "date": "05-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "72e6386d-96f0-4218-99e4-18eb014e358a",
+                    "date": "05-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "b51b83b2-ee4a-4ba0-baaf-5654cd380d9d",
+                    "date": "06-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "ee5411da-d951-428c-9413-9313b9625852",
+                    "date": "06-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "76521b94-5789-4c3d-b40d-54e0df400973",
+                    "date": "06-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "a607fe03-ac04-41df-aac9-561e215b3fb9",
+                    "date": "06-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1200"
+                },
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "850"
+                }
+            ]
+        },
+        {
+            "center_id": 628636,
+            "name": "Maneser UPHC 18 Plus",
+            "address": "Maneser UPHC",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122051,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "ef83a746-c76f-464e-97c9-195983c3301e",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 548126,
+            "name": "Max Hospital",
+            "address": "Max Hospital Opp HUDA City Block Sushant Lok",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "51b98006-1cae-47db-900f-060b44b664f7",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "8a2c3818-17dd-4408-b551-1380cdcd9896",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "f645b458-83f0-426f-a29a-ef0431f10876",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "805307f6-6897-4331-ac4e-b6511c69f930",
+                    "date": "01-06-2021",
+                    "available_capacity": 197,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-12:00PM",
+                        "12:00PM-03:00PM",
+                        "03:00PM-06:00PM",
+                        "06:00PM-08:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 197
+                },
+                {
+                    "session_id": "993328d6-f169-453e-b106-6e61daff003c",
+                    "date": "01-06-2021",
+                    "available_capacity": 19,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-12:00PM",
+                        "12:00PM-03:00PM",
+                        "03:00PM-06:00PM",
+                        "06:00PM-08:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 19
+                },
+                {
+                    "session_id": "978dce5c-736c-497b-a4aa-efa71f48be72",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "9a89d8d5-15e5-4896-affd-39287d67be96",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1250"
+                },
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "900"
+                }
+            ]
+        },
+        {
+            "center_id": 604036,
+            "name": "UPHC Chanderlok 18 Plus",
+            "address": "PWO Appartments Sector 43 Gurugram",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122002,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "a5fa78d8-ebbe-4361-be75-bd013fe45d83",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 31276,
+            "name": "UPHC Chauma 18 Plus",
+            "address": "Chauma",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "7c89506a-ff42-4830-b241-9db271d2b591",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 604956,
+            "name": "Nathupur UPHC 18 Plus",
+            "address": "Nathupur",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122002,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "1894d603-5970-483f-818c-06e573fec691",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 567446,
+            "name": "Bhorakalan Phc 2",
+            "address": "GSSS Bhorakalan",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Pataudi",
+            "pincode": 122051,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "8e3bb141-134c-4d06-9d1c-04a2bc70e0dc",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "022a6791-e123-419a-8669-505438b9cf5a",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 198576,
+            "name": "UPHC Om Nagar 18 Plus",
+            "address": "Government Middle School Shivaji Nagar",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "3461fd8e-a223-4e59-af5d-b45668940888",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 196120,
+            "name": "Patel Nagar UPHC 18 Plus",
+            "address": "Community Centre Sec 15 Part 2",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "df415a87-7f37-482a-858c-000697ab4016",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 206744,
+            "name": "Laxman Vihar Uphc Gurugram",
+            "address": "Shani Mandir Laxman Vihar",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122006,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "edb0e3e7-66d3-4ee9-ba8e-31b75b8ed91c",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 33339,
+            "name": "Wazirabad PHC",
+            "address": "Wazirabad",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Farukhnagar",
+            "pincode": 122413,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "8fe836ca-66a3-437a-a814-dea8a679d5e1",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 604873,
+            "name": "Gurgaon Village Urban",
+            "address": "Govt Boys High School Gvillage",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Farukhnagar",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "d45f1709-5fa1-4daf-8360-9eafceac6a2a",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "2b692134-2094-4ff9-8717-7290f1cec0be",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 605967,
+            "name": "Daultabad PHC",
+            "address": "Sector 103 Daultabad",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Farukhnagar",
+            "pincode": 122006,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "6a826907-fda3-4d5f-9eb1-69902e424269",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 604883,
+            "name": "Garhi Harsaru PHC",
+            "address": "SGT Medical Collage",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Farukhnagar",
+            "pincode": 122505,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "d409e1a1-bcec-45d4-8376-42ce6064f5a0",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 567981,
+            "name": "Basai Enclave UPHC 18 Plus",
+            "address": "Gurgaon",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122006,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "c69ec6a3-3e66-4b78-b6e3-0a6dfc15f654",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 60807,
+            "name": "Govt Boys SS School G. Village",
+            "address": "Gurgaon Village",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Farukhnagar",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "cce275a3-491f-4f68-a5b4-822eccb7408b",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 552724,
+            "name": "Medanta The Medicity",
+            "address": "Sector - 38  Gurgaon Pin Code 122001",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "b9950779-96ea-4f24-a669-ba00d9a6e5a9",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "900"
+                }
+            ]
+        },
+        {
+            "center_id": 31098,
+            "name": "UPHC Surat Nagar 18 Plus",
+            "address": "B.R.MEMORIAL SHOOL Surat Nagar Phase 2 Sector 104 Gurugram Haryana India",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122006,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "9639b808-999f-45e3-8cbb-052415360acc",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 33466,
+            "name": "Rajendra Park UPHC 1",
+            "address": "Subala Bhawan C-19 Ward No.7 Rajendra Park Sector 105 Gurugram",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122006,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "06755eac-924b-4f73-a685-f693ebf93074",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 697725,
+            "name": "Meghraj Healthcare",
+            "address": "A-26-1 2nd Floor DLF Phase 1 Adjoining DT Mall",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122002,
+            "lat": 28,
+            "long": 77,
+            "from": "11:00:00",
+            "to": "16:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "552169d9-e38b-4dff-b2cc-13e8e5d64f8f",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "5d4d5479-60fa-41f2-9d82-c0f1404c49b7",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "850"
+                },
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1250"
+                }
+            ]
+        },
+        {
+            "center_id": 60958,
+            "name": "UPHC Firoz Gandhi Colony",
+            "address": "Community CentreSector-7 Extension Gurugram",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "e5807c68-d463-4608-9c7d-6bc4d7117240",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 605978,
+            "name": "Palra PHC",
+            "address": "Palra PHC",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Ghangola",
+            "pincode": 122101,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "2f0ecc78-e17d-4567-98f0-786913b7c251",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 690968,
+            "name": "Miracles Apollo Cradle Spectra",
+            "address": "Plot No 45 Vatika India Next Sector 82 Gurgaon",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Pataudi",
+            "pincode": 122004,
+            "lat": 28,
+            "long": 76,
+            "from": "12:00:00",
+            "to": "16:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "fc3ad2fd-d6ee-43d9-8e1d-f56783d7d5c5",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-03:00PM",
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "3491404d-0c62-473a-9daa-b62bc4050810",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "5fdca0b4-ca7e-4cb5-9444-10aefeab68e4",
+                    "date": "01-06-2021",
+                    "available_capacity": 1,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-03:00PM"
+                    ],
+                    "available_capacity_dose1": 1,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "03fe1d98-05d2-4039-aec5-2ddbbd903b90",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1200"
+                }
+            ]
+        },
+        {
+            "center_id": 32366,
+            "name": "Khandsa Uphc",
+            "address": "AGASTYA KHANDSA SCIENCE CENTER ( GOVT SR SEC SCHOOL KHANDSA )",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122004,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "1bf826af-6f03-42c3-81da-d740627304d3",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 640643,
+            "name": "Ghangola CHC 18 Plus",
+            "address": "Ghangola CHC",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Ghangola",
+            "pincode": 122102,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "c2345fba-5516-4a4d-b1fd-50d59b291d3c",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 563490,
+            "name": "Bhangrola PHC 1",
+            "address": "Royal Public Sr. Sec. School Wazirpur Sector 95A Gurugram Haryana 122505",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Pataudi",
+            "pincode": 122505,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "9a4e5ecb-e87e-439e-8c44-b74a47ac9031",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 623532,
+            "name": "Fazilpur Uphc 1",
+            "address": "Government School Village Fazilpur",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122004,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "1e0f9c41-ff74-42b4-ac16-65ee2f4461af",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 33195,
+            "name": "Bhondsi PHC",
+            "address": "Senior Secondary School Bhondsi",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Ghangola",
+            "pincode": 122102,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "a296084b-3151-4aab-9832-5357013a3b1d",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 604952,
+            "name": "PHC Kasan 18 Plus",
+            "address": "Kasan",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Pataudi",
+            "pincode": 122051,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "e8282b24-9178-4f1b-8b8a-00d319bc0909",
+                    "date": "31-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 690260,
+            "name": "Polyclinic Sec31 2",
+            "address": "Sector 31 Gurugram",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "872f39ed-c17e-4861-8f92-d5283028496d",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 193840,
+            "name": "UPHC Naharpur Roopa",
+            "address": "Naharpur Roopa",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "48d54b21-616e-44c3-836f-956a3e434cdb",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 631534,
+            "name": "Sohna SDCH 2",
+            "address": "Sohna",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Ghangola",
+            "pincode": 122103,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "fdc11c6c-67ab-46be-9682-2b28ca22666b",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 631543,
+            "name": "Gandhi Nagar Uphc 2",
+            "address": "RB Public School Gandhi Nagar Near Uphc Gandhi Nagar",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "33f13bc4-8705-45b2-bb1c-ecef84f4488c",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 596254,
+            "name": "Kasan PHC 2",
+            "address": "Community Center Kasan PHC",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Pataudi",
+            "pincode": 122051,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "7dab42ea-3f59-4672-924e-9f2f08763cde",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 608625,
+            "name": "Indira Eye Hosp Badshahpur",
+            "address": "PHC Badshapur",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Ghangola",
+            "pincode": 122101,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "35b43dbf-df52-40a3-8eaa-8bf1892d7b57",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 632695,
+            "name": "Wazirabad PHC 2",
+            "address": "Wazirabad",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Farukhnagar",
+            "pincode": 122003,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "fe602151-d1c3-41d2-bd4b-c4fb00d56391",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 199148,
+            "name": "Chetna Public SchoolRajivNagar",
+            "address": "Chetna Public School West Rajiv Nagar",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "a5698914-efa7-4e4f-8b75-261e945404aa",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 632112,
+            "name": "Surat Nagar Uphc 2",
+            "address": "B.R.MEMORIAL SHOOL Surat Nagar Phase 2 Sector 104 Gurugram Haryana India",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122006,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "5ba9e137-369d-4c09-b328-a009686ef605",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 632104,
+            "name": "Om Nagar Uphc 2",
+            "address": "Government Middle School Shivaji Nagar",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "69075da0-4372-400c-8100-0a10fffb4b58",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 602897,
+            "name": "Artemis Hospital Pvt",
+            "address": "Sec 51 Gurugram",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Farukhnagar",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "03e9045e-967e-42db-8231-9bf87e18d9c1",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "3c411cf4-33e9-4eee-915b-2ea6f9c95b86",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "900"
+                }
+            ]
+        },
+        {
+            "center_id": 567412,
+            "name": "Columbia Asia",
+            "address": "Palam Vihar",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122017,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "18:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "af35d146-518f-48c7-85a7-d2567703b3e2",
+                    "date": "01-06-2021",
+                    "available_capacity": 245,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 60,
+                    "available_capacity_dose2": 185
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "900"
+                }
+            ]
+        },
+        {
+            "center_id": 196119,
+            "name": "Patel Nagar UPHC 45 Plus",
+            "address": "UPHC Patel Nagar",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "76afd314-36df-425b-a838-1786f48c31e5",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 632189,
+            "name": "UPHC Firoz Gandhi Colony 2",
+            "address": "Manohar Nagar Dharamshala",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "c0fc2d25-0df1-4b16-8ef3-3a6e734fad72",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 632096,
+            "name": "Chanderlok UPHC 2",
+            "address": "PWO Appartments Sector 43 Gurugram",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122002,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "d5c7d96c-6b3a-48f4-ac21-2c2f8dd6a235",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 632098,
+            "name": "Khandsa Uphc 2",
+            "address": "AGASTYA KHANDSA SCIENCE CENTER ( GOVT SR SEC SCHOOL KHANDSA )",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122004,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "bb144126-03d2-4a74-b5ae-71b63f477b8c",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 604922,
+            "name": "Ghangola CHC 45 Plus",
+            "address": "Ghangola",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Ghangola",
+            "pincode": 122102,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "5f92eb3a-ba58-498e-896f-15c9ce0e1a3c",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 604639,
+            "name": "Civil Hospital Sec 10 45 Plus",
+            "address": "Civil Hospital Sec 10",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "e45bf79c-2871-44ee-ae2e-a2521059f7f1",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 604132,
+            "name": "Tigra UPHC CV 45 Plus",
+            "address": "Tigra UPHC",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122003,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "dc651ded-7b50-4442-9561-21145f0ac455",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 128685,
+            "name": "Community Centre Sector 22 B",
+            "address": "Mullahera Sector-22",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122015,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "ace7c85f-bfd0-4bfc-ac43-c0d2afc91cbe",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 58638,
+            "name": "Bhangrola PHC 2",
+            "address": "Govt Senior Secondary School Bhangrola",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Pataudi",
+            "pincode": 122505,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "c907e07d-891b-4b6c-a84b-ec731ea58d22",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 565196,
+            "name": "Pataudi SDCH 2",
+            "address": "Pataudi",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Pataudi",
+            "pincode": 122503,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "87cc07b1-c12f-468e-bf14-d6ceef84652a",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 33415,
+            "name": "Hailymandi SDH 2",
+            "address": "Haily Mandi Sdh",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Pataudi",
+            "pincode": 122503,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "4ce4202e-708d-4704-8812-dc399f058bfc",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 631472,
+            "name": "Rajendra Park UPHC 2",
+            "address": "Totaram Shiv Mandir  Dharamsala Anand Garden Rajendra Park",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "ab9c61a9-02f8-48f0-b3a0-43fc517755e5",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 91230,
+            "name": "Nathupur UPHC 45 Plus",
+            "address": "Nathupur",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122006,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "f8bf31c7-8e55-41d0-bf48-abdc85e471d5",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 31073,
+            "name": "Sukhrali UPHC 2",
+            "address": "Near Community Center",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "b55d164f-5aea-41af-871d-fc14ace8f183",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 610976,
+            "name": "CK BIRLA",
+            "address": "Sec- 51 Gurgaon Mayfield Garden",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122018,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "085cba96-2bd0-4dda-a137-3040c605d417",
+                    "date": "01-06-2021",
+                    "available_capacity": 2,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 2
+                },
+                {
+                    "session_id": "36110291-093d-4276-97d2-619eb2f33567",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "99d4e048-f1c4-47d6-b648-3dd25807509a",
+                    "date": "02-06-2021",
+                    "available_capacity": 1,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 1
+                },
+                {
+                    "session_id": "7c9de173-0c75-4e2c-b625-3ac9fa11334c",
+                    "date": "02-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "3314051c-31ee-44af-83b5-b3efc94fbfca",
+                    "date": "03-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "7a11dd22-9f90-4ce4-a03f-42f775306d8c",
+                    "date": "03-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "2c1b3378-2c44-4ba4-8237-db4f9287f9c1",
+                    "date": "04-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "c6982c8e-bbe4-43d7-b476-6310b895d30f",
+                    "date": "04-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "48f31174-81db-44e5-a0fd-5bd035f5f34d",
+                    "date": "05-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "c5bbbba3-e24a-4267-882a-9b1e00a7f6a7",
+                    "date": "05-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "282a437a-c322-487c-a3b2-191a212c5476",
+                    "date": "06-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "fab717f9-bb97-44d7-b076-5f12bb84509e",
+                    "date": "06-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "900"
+                }
+            ]
+        },
+        {
+            "center_id": 625295,
+            "name": "Basai Enclave UPHC 45 Plus",
+            "address": "UPHC Basai Enclave",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "46362f68-5e87-4dc3-98e2-644b676a9b78",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 604026,
+            "name": "Manesar UPHC CV 45 Plus",
+            "address": "Manesar",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122051,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "04b66f23-e9fb-42de-956a-38612e09e79c",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 604941,
+            "name": "Mandpura Phc 2",
+            "address": "Mandpura",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Pataudi",
+            "pincode": 122504,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "3189d784-8d50-4d48-91f1-0f3a7bb591d4",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 632449,
+            "name": "Farrukh Nagar CHC 1",
+            "address": "Farrukh Nagar CHC",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Farukhnagar",
+            "pincode": 122506,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "5c5ac165-7e3e-4715-b151-920634220319",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 631412,
+            "name": "Laxman Vihar Uphc 2",
+            "address": "Laxman Vihar",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "519affed-9587-45ea-a4c2-02f2715edf88",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 631519,
+            "name": "Palra PHC 2",
+            "address": "Sub Center TEEKLI",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Ghangola",
+            "pincode": 122101,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "be93e2a8-95fe-40db-bd21-b084fd22131c",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 631586,
+            "name": "Bhondsi PHC 2",
+            "address": "Senior Secondary School Bhondsi",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Ghangola",
+            "pincode": 122102,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "faa10544-4dff-47df-b017-46071aa47848",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 59765,
+            "name": "Garhi Harsaru 45 Plus",
+            "address": "Basant Valley School Garhi",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Farukhnagar",
+            "pincode": 122505,
+            "lat": 28,
+            "long": 76,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "7ac36fbe-6312-41cb-aaf1-f272caa40be5",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 561709,
+            "name": "Chauma UPHC 2",
+            "address": "Chauma",
+            "state_name": "Haryana",
+            "district_name": "Gurgaon",
+            "block_name": "Gurgaon",
+            "pincode": 122001,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "e770aac2-ab20-4c30-a586-b34d063cdac8",
+                    "date": "01-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        }
+    ]
+}
