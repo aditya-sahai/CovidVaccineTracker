@@ -11,7 +11,7 @@ class DataManager:
         date = str(datetime.now().date()).split("-")
         date = f"{date[2]}-{date[1]}-{date[0]}"
         self.REQ_URL = f"https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=188&date={date}"
-        self.data = None
+        self.req_data = None
 
     def get_data(self):
         """
@@ -19,9 +19,9 @@ class DataManager:
         """
 
         str_data = requests.get(self.REQ_URL).content.decode()
-        self.data = json.loads(str_data)
+        self.req_data = json.loads(str_data)
 
-        return self.data
+        return self.req_data
 
     def find_available_vaccines(self):
         """
@@ -30,10 +30,10 @@ class DataManager:
 
         self.available_vaccines = []
 
-        if not self.data:
+        if not self.req_data:
             self.get_data()
 
-        for center in self.data["centers"]:
+        for center in self.req_data["centers"]:
             for session in center["sessions"]:
                 if session["available_capacity"] > 0:
                     vaccine_data = {
