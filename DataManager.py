@@ -13,6 +13,8 @@ class DataManager:
         self.REQ_URL = f"https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=188&date={date}"
         self.req_data = None
 
+        self.DISCTRICT_ID_FILE_NAME = "district-id.json"
+
     def get_data(self):
         """
         Returns a dictionary of vaccine availability data.
@@ -51,9 +53,37 @@ class DataManager:
 
         return self.available_vaccines
 
+    def save_district_ids(self):
+        """
+        Makes a json file which has district names and their id's.
+        """
+
+        id_num = 0
+        district_id_data = []
+        invalid_district_id_counter = 0
+
+        while True:
+            data = json.loads(requests.get(f"https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id={id_num}&date=02-06-2021").content.decode())
+            invalid_district_id_counter += 1
+
+            if len(data["centers"]) > 0:
+                name = data["centers"][0]["district_name"]
+                district_data = {
+                    "name": name,
+                    "id": id_num,
+                }
+                district_id_data.append(district_data)
+                invalid_district_id_counter = 0
+                print(f'{id_num} - {name}')
+
+            if invalid_district_id_counter >= 50:
+                break
+
+            id_num += 1
+
+        with open(self.DISCTRICT_ID_FILE_NAME, "w") as id_f:
+            json.dump(district_id_data, id_f, indent=4)
 
 if __name__ == "__main__":
     Manager = DataManager()
-    data = Manager.get_data()
-    available_vaccines = Manager.find_available_vaccines()
-    print(json.dumps(available_vaccines, indent=4))
+    Manager.save_district_ids()
